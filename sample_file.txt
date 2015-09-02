@@ -1,0 +1,5 @@
+HI all,
+
+This is my first sample file for git.
+
+Thanks to all.
